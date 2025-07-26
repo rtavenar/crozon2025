@@ -47,7 +47,8 @@
 
 ## Jour 4 : Saint-Nic ➡️ Plage de Kervijen ➡️ Penmarc'h ➡️ Rennes **30/07**
 
-* Distance :  7 km, 1h30
+* Distance :  9 km
+* Trajet : https://brouter.de/brouter-web/#map=14/48.1473/-4.2859/cyclosm&lonlats=-4.300306,48.193499;-4.293555,48.171752;-4.293343,48.165856;-4.282832,48.156868;-4.270341,48.144178&profile=hiking-mountain
 * Aude vient nous chercher à la plage de Kervijen et journée à Penmarc'h avec les Brisseau-David puis retour dans la nuit en voiture
 
 <!-- ---
